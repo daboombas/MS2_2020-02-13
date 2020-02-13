@@ -1,0 +1,23 @@
+---
+title: "MS_2"
+author: "Jason Yoo"
+date: "2/13/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+First Project: Introduction to the 2018 World Championships by ____
+
+Pros: I like that the student analyzed a specific period in the entirety of League of Legends competitive history. It allowed for a more intimate look into the possible correlations that result in a team winning the trophy. The data was displayed in an easy to read manner in all of the student's plots, and as a reader with limited knowledge in statistics, I could grasp most of what the student was trying to get across.
+
+Cons: However, the student failed to identify, conceptualize, or define the many foreign terms in the game. Words like "dragon," or "baron," have little to no meaning with a lack of background information to the average reader. 
+
+
+Second Project: The History of the Olympic Games
+
+Pros: I liked the plots in the "Where Were Athletes Coming Over Time?" because they were an easy way to understand which regions of the world sent the most athletes to the Olympic Games. There were multiple plots to track athletes sent over time, which I thought was a great addition to the section and made for a better aesthetic to the project, overall.
+
+Cons: Some of the graphs are definitely not optimized to be easily readable. For example, the plot in the section "What Countries Have Been Successful in the Winter Games?" display medals won by different countries but they are not in a descending order. To find the country with the most medals won, the reader has to look for the specific bar, which might be a little frustrating to deal with.
